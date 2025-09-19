@@ -1,0 +1,3 @@
+com\prodbase\model\Product.class
+com\prodbase\controller\MainController.class
+com\prodbase\dao\ProductDao.class
