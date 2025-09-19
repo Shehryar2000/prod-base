@@ -49,11 +49,3 @@
 ![Delete Product](snapshots/delete_1.png)
 
 ![Delete Product](snapshots/delete_2.png)
-
----
-
-## Setup Instructions
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/Shehryar2000/prod-base.git
